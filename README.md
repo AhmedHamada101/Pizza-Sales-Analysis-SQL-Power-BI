@@ -1,4 +1,4 @@
-# Pizza-Sales-Analysis-SQL-Power-BI
+# Pizza-Sales-Analysis-SQL-Power-B
 
 
 <img src="Screenshot 2023-08-20 173001.png">
