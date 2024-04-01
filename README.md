@@ -6,7 +6,7 @@
 - Building an interactive dashboard to display the insights using Power BI.
 
 **The dashboard has to answer a lot of questions, including:**
-1. Some of Measures:
+1. Some of Measures:\
 1.1. What is the total number of orders?
 1.2. What is the total revenue of all orders?
 1.3. What is the average price per order?
