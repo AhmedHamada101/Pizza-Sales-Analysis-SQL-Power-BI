@@ -7,11 +7,11 @@
 
 **The dashboard has to answer a lot of questions, including:**
 1. Some of Measures:\
-1.1. What is the total number of orders?
-1.2. What is the total revenue of all orders?
-1.3. What is the average price per order?
-1.4. What is the total number of pizzas sold?
-1.5. What is the average number of pizzas sold per order?
+1.1. What is the total number of orders?\
+1.2. What is the total revenue of all orders?\
+1.3. What is the average price per order?\
+1.4. What is the total number of pizzas sold?\
+1.5. What is the average number of pizzas sold per order?\
 2. What are the total orders by daily trend?
 3. What are the total orders by monthly trend?
 4. What are the total sales by pizza category?
