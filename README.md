@@ -1,5 +1,10 @@
 # Pizza-Sales-Analysis-SQL-Power-BI
 
+
+
+You can see the dashboard from this link: https://www.novypro.com/project/pizza-sales-analysis-power-bi-10
+
+
 **Steps⬇:**
 - Understanding data using SQL.
 - Transforming data using Power Query.
@@ -29,6 +34,4 @@
 
 <img src="Screenshot 2023-08-20 173001.png">
 
-
-<img src="Screenshot 2023-08-20 173152.png">
 
