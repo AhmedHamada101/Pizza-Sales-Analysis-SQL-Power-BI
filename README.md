@@ -5,7 +5,7 @@
 You can see the dashboard from this link: https://www.novypro.com/project/pizza-sales-analysis-power-bi-10
 
 
-**Steps⬇:**
+**Project Steps⬇:**
 - Understanding data using SQL.
 - Transforming data using Power Query.
 - Building an interactive dashboard to display the insights using Power BI.
