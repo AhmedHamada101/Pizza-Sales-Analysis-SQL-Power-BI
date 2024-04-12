@@ -2,7 +2,7 @@
 
 
 
-You can see the dashboard from this link: https://www.novypro.com/project/pizza-sales-analysis-power-bi-10
+**You can see the dashboard from this link:** https://www.novypro.com/project/pizza-sales-analysis-power-bi-10
 
 
 **Project Steps⬇:**
