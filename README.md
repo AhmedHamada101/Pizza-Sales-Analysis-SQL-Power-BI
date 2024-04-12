@@ -32,6 +32,6 @@ You can see the dashboard from this link: https://www.novypro.com/project/pizza-
 12. What are the lowest-selling 5 pizzas by order?
 
 
-<img src="Screenshot 2023-08-20 173001.png">
+<img src="Screenshot 2024-04-12 142416.png">
 
 
