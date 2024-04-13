@@ -5,7 +5,7 @@
 **You can see the dashboard from this link:** https://www.novypro.com/project/pizza-sales-analysis-power-bi-10
 
 
-## In this project: /
+## In this project: 
 - We analyzed key indicators of our pizza sales data to gain insight into our business performance.
 - We've shown different aspects of our pizza sales data to gain insights and understand key trends.
 
