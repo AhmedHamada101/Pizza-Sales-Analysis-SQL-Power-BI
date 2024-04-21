@@ -2,7 +2,7 @@
 
 
 
-**You can see the dashboard from this link:** https://www.novypro.com/project/pizza-sales-analysis-power-bi-10
+**[Click here to interact with the dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2MyZTI5NjAtZjExMC00NzVjLWE0YTUtNTQ2MmZmM2E0OTUzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)**
 
 
 ## In this project: 
